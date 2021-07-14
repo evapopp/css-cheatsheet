@@ -6,9 +6,10 @@ Create a responsive webage using CSS properties. This webpage holds a CSS "cheat
 ## Technologies Used
 HTML & CSS
 
+
 ## Links
-* Deployed Site: https://evapopp.github.io/miniproject-2/
-* Repo: https://github.com/evapopp/miniproject-2
+* Deployed Site: https://evapopp.github.io/css-cheatsheet/
+* Repo: https://github.com/evapopp/css-cheatsheet
 
 ## Page Preview
 
